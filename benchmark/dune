@@ -1,0 +1,4 @@
+(executable
+ (public_name benchmark)
+ (name benchmark)
+ (libraries TP))
