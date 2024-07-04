@@ -13,7 +13,15 @@ Simply run:
 
 ## Run
 
-Run random maze generator program: 
+### Run tests
+
+> dune test
+
+### Run random maze generator program: 
+
+> dune exec _build/default/bin/main.exe
+
+### Run Benchmark
 
 > dune exec benchmark <n_min> <n_max>
 
